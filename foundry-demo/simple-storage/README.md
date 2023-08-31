@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### Preview Readm in VS Code
+```
+ctrl + shift + v
+```
