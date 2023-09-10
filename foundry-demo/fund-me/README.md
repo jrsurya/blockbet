@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### Install Make 
+```shell
+sudo apt install make
+```
