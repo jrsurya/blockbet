@@ -10,3 +10,6 @@
 [submodule "foundry-demo/fund-me/lib/foundry-devops"]
 	path = foundry-demo/fund-me/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-demo/fund-demo-client/foundry-demo/fund-demo-client/html-fund-me-f23"]
+	path = foundry-demo/fund-demo-client/foundry-demo/fund-demo-client/html-fund-me-f23
+	url = https://github.com/jrsurya/simple-storage-pro23
